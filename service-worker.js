@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-acid-trail/precache-manifest.ea3f9c5b7533f656f3cd3d4801fdacd9.js"
+  "/react-acid-trail-demo/precache-manifest.770db1cafaa0aad520447083a87265de.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-acid-trail/index.html", {
+workbox.routing.registerNavigationRoute("/react-acid-trail-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
