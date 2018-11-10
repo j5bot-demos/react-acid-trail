@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/react-acid-trail/static/js/runtime~main.58520da2.js"
   },
   {
-    "revision": "fe0449cfbdc81e7c21c6",
-    "url": "/react-acid-trail/static/js/main.fe0449cf.chunk.js"
+    "revision": "426d8219aabaaf5a8f97",
+    "url": "/react-acid-trail/static/js/main.426d8219.chunk.js"
   },
   {
     "revision": "ee7e8e804381bfc52c68",
     "url": "/react-acid-trail/static/js/1.ee7e8e80.chunk.js"
   },
   {
-    "revision": "fe0449cfbdc81e7c21c6",
-    "url": "/react-acid-trail/static/css/main.c9cc4c44.chunk.css"
+    "revision": "426d8219aabaaf5a8f97",
+    "url": "/react-acid-trail/static/css/main.969e2617.chunk.css"
   },
   {
     "revision": "ee7e8e804381bfc52c68",
     "url": "/react-acid-trail/static/css/1.41f323ad.chunk.css"
   },
   {
-    "revision": "b5a30fdb7cc0c2b84f9fc705428b1ea5",
+    "revision": "1262ee914243cc5cd6f51fc4c0623d29",
     "url": "/react-acid-trail/index.html"
   }
 ];

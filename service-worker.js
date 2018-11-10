@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-acid-trail/precache-manifest.8b019f54d05c714afc9b13c2500b8e53.js"
+  "/react-acid-trail/precache-manifest.0c54a152f0c2c0c93989820b2de66d00.js"
 );
 
 workbox.clientsClaim();
